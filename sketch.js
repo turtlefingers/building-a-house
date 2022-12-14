@@ -220,6 +220,7 @@ function resetScene(){
 
   camDistTarget = camDist = 0.4;
   camXtarget = camX = 0;
+  moveTime = 0;
 }
 
 
