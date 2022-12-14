@@ -50,7 +50,7 @@ function setup() {
 
   padding = (height - width)/4;
   if(padding<0)padding = 0;
-  groundY = padding + 330;
+  groundY = height/2 + 50;
 
   resetScene();
   count = 0;
